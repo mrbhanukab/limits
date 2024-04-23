@@ -99,10 +99,10 @@ The Limits Simulator is a tool designed to help users understand the concept of 
 ### Recommended Way for Most Users
 
 - **Step 1:** Download the executable file for your operating system:
-  - [Download for Windows (64-bit)](./build/limits-windows-amd64.exe)
-  - [Download for Windows (32-bit)](./build/limits-windows-386.exe)
-  - [Download for Linux (64-bit)](./build/limits-linux-amd64)
-  - [Download for Linux (32-bit)](./build/limits-linux-386)
+  - [Download for Windows (64-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-windows-amd64.exe)
+  - [Download for Windows (32-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-windows-386.exe)
+  - [Download for Linux (64-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-linux-amd64)
+  - [Download for Linux (32-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-linux-386)
 
 - **Step 2:** Once downloaded, navigate to the directory where the executable is located.
 - **Step 3:** Open a terminal or command prompt in that directory.
