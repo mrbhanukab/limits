@@ -167,7 +167,7 @@ Step size for evaluation:
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license). See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). See the [LICENSE](./LICENSE) file for details.
 
 ## Credits
 
