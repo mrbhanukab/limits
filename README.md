@@ -2,6 +2,9 @@
 
 A Limits Simulator is a command-line tool that helps users visualize the limits of mathematical functions as a variable approaches a specific value.
 
+![Watch the video](https://i.ytimg.com/vi/ZRb3XgcyKiI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEkoNzAP&rs=AOn4CLAzqUmIYDjE99lh4IMgA_aSTCmhDw)
+Video:- https://www.youtube.com/watch?v=ZRb3XgcyKiI
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
