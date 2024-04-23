@@ -101,6 +101,8 @@ The Limits Simulator is a tool designed to help users understand the concept of 
 - **Step 1:** Download the executable file for your operating system:
   - [Download for Windows (64-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-windows-amd64.exe)
   - [Download for Windows (32-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-windows-386.exe)
+  - [Download for macOS (64-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-darwin-amd64)
+  - [Download for macOS (M1,M2, ...)](https://github.com/mrbhanukab/limits/raw/main/build/limits-darwin-arm64)
   - [Download for Linux (64-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-linux-amd64)
   - [Download for Linux (32-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-linux-386)
 
@@ -108,7 +110,9 @@ The Limits Simulator is a tool designed to help users understand the concept of 
 - **Step 3:** Open a terminal or command prompt in that directory.
 - **Step 4:** Run the executable file by typing its name and pressing Enter.
   - For example, on Windows: `limits-windows-amd64.exe`
+  - For example, on macOS: `./limits-darwin-amd64`
   - For example, on Linux: `./limits-linux-amd64`
+
 
 ### Build by Yourself
 
