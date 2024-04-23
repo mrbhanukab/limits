@@ -107,8 +107,12 @@ The Limits Simulator is a tool designed to help users understand the concept of 
   - [Download for Linux (32-bit)](https://github.com/mrbhanukab/limits/raw/main/build/limits-linux-386)
 
 - **Step 2:** Once downloaded, navigate to the directory where the executable is located.
-- **Step 3:** Open a terminal or command prompt in that directory.
-- **Step 4:** Run the executable file by typing its name and pressing Enter.
+- **Step 3:** Give execute permission (only on linux and macos) to the executable by running the following command:
+```bash
+  chmod +x ./limits-linux-amd64
+```
+- **Step 4**: Open a terminal or command prompt in that directory.
+- **Step 5:** Run the executable file by typing its name and pressing Enter.
   - For example, on Windows: `limits-windows-amd64.exe`
   - For example, on macOS: `./limits-darwin-amd64`
   - For example, on Linux: `./limits-linux-amd64`
